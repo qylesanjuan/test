@@ -3,7 +3,11 @@
 	<link rel="stylesheet" type="text/css" href="test.css">
 </head>
 <body>
+<<<<<<< HEAD
 	<h1>Hello Philippines --changed---!</h1>
+=======
+	<h1>Hello Los Banos</h1>
+>>>>>>> ab-1l_sanjuan
 	<img src="image.jpg"/>
 
 	<p> SAN JUAN, Qyle John DLA. 2012-55471 CMSC128 AB-1L </p>

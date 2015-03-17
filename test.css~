@@ -1,6 +1,13 @@
 body{
+<<<<<<< HEAD
 background-color: green;
 font-color:red;
 color: yellow;
 font-family: "Comic Sans MS", cursive, sans-serif;
+=======
+background-color: violet;
+color: yellow;
+font-color:black;
+font-family: "Lucida Console", Monaco, monospace;
+>>>>>>> ab-1l_sanjuan
 }
