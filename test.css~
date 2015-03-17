@@ -1,6 +1,5 @@
 body{
-background-color: violet;
+background-color: blue;
 color: yellow;
-font-color:black;
 font-family: "Lucida Console", Monaco, monospace;
 }
